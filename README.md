@@ -21,5 +21,5 @@ cat vscode.extensions.txt | xargs -n 1 code --install-extension
 ```
 
 ```
-cp vscode.extensions.txt ~/Library/Application Support/Code/User/
+cp settings.json ~/Library/Application Support/Code/User/
 ```
