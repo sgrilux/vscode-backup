@@ -6,7 +6,7 @@ How I backup and restore my Visual Studio Code extensions and settings.
 
 ### settings
 
-Settings are stored in `settings.json` underneath `~/Library/Application Support/Code/User`
+Settings are stored in `settings.json` underneath `~/Library/Application\ Support/Code/User`
 
 ### exetensions
 
@@ -21,5 +21,5 @@ cat vscode.extensions.txt | xargs -n 1 code --install-extension
 ```
 
 ```
-cp settings.json ~/Library/Application Support/Code/User/
+cp settings.json ~/Library/Application\ Support/Code/User/
 ```
