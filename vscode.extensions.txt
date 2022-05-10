@@ -16,5 +16,6 @@ ms-vscode-remote.remote-containers
 pcsoftware.readable
 PKief.material-icon-theme
 redhat.vscode-yaml
+shardulm94.trailing-spaces
 yzhang.markdown-all-in-one
 zenor.makefile-creator
